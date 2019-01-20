@@ -17,7 +17,7 @@ Assuming libMali.so is in path "/opt/libmali-fbdev-r5p0", type:
 	make
   
  # Running
- Your use must have permision to access /dev/mali.
+ Your user must have permision to access /dev/mali.
  
  Type:
  
