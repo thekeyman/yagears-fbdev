@@ -5,7 +5,7 @@ A conversion of the popular gears OpenGL demo to the Mali OpenGL ES fbdev
 
 The following libraries must be installed:
 
-	sudo apt-get install libpng-dev zlib1g-dev
+	sudo apt-get install pkg-config libpng-dev zlib1g-dev
 
 Assuming libMali.so is in path "/opt/libmali-fbdev-r5p0", type:
 
